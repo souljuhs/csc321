@@ -1,3 +1,5 @@
+#Sidney Mcclendon
+#csc321
 
 x = 4
 y = 5.6
